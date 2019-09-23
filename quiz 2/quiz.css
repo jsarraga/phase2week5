@@ -1,0 +1,28 @@
+.navbar {
+    margin-left: 30%;
+}
+
+.navbar a {
+    color: orange;
+}
+.body {
+    text-align: left;
+    margin-left: 30%;
+}
+
+.main {
+    text-align: left;
+    font-size: xx-large;
+    margin-left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.border {
+    border-width: 10px;
+    border-style: solid;
+    border-color:red;
+}
+
+.submain {
+    font-size: large
+}
