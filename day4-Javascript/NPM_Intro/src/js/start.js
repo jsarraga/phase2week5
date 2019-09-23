@@ -4,7 +4,7 @@ function changeGreeting() {
     let elementsByTagName = 
     document.getElementsByTagName("H1");
 
-    elementsByTagName[0].textContent = geeting;
+    elementsByTagName[0].textContent = greeting;
 }
 
 setTimeout(changeGreeting, 5000)
